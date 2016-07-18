@@ -23,8 +23,12 @@ This repository contains numerical methods examples, and computing bond price, b
         <td>bond_price_duration_convexity.py</td>
     </tr>
     <tr>
-        <td>Bisection, Newton, Secant Method</td>
+        <td>Bisection, Newton, Secant method</td>
         <td>numerical_methods.py</td>
+    </tr>
+    <tr>
+        <td>Approximation of numerical integration</td>
+        <td>Numerical_integration_methods.py</td>
     </tr>
     <tr>
         <td>Implied Volatility</td>
