@@ -22,7 +22,7 @@ This repository contains numerical methods examples, and computing bond price, b
         <td>Duration and Convexity of a bond</td>
         <td>bond_price_duration_convexity.py</td>
     </tr>
-    <tr?
+    <tr>
         <td>Bisection, Newton, Secant Method</td>
         <td>numerical_methods.py</td>
     </tr>
